@@ -1,0 +1,6 @@
+requests
+pypresence
+customtkinter
+pystray
+pillow
+pynput
