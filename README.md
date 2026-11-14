@@ -15,3 +15,6 @@ Shows a game as your Discord activity. Windows only.
 ## Vencord streaming plugin (optional)
 Copy `vencord-plugin/OneClickStream` into Vencord's `src/userplugins/` and rebuild.
 Needs the PhilsPluginLibrary plugin.
+
+## Support
+Join Discord Server `https://discord.gg/TWHNb8gPMY`
